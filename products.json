@@ -1,0 +1,37 @@
+data = [
+    {   
+        "productId": 1,
+        "code": "00000142709",
+        "title": "Плитка облицовочная 1",
+        "primaryImageUrl": "floor.jpg",
+        "price": 593,
+    },
+    {   
+        "productId": 2,
+        "code": "00000142710",
+        "title": "Плитка облицовочная 2",
+        "primaryImageUrl": "floor.jpg",
+        "price": 493,
+    },
+    {   
+        "productId": 3,
+        "code": "00000142719",
+        "title": "Плитка облицовочная Сан-Ремо 7 200х200х7 мм белая (26 шт=1.04 кв.м)",
+        "primaryImageUrl": "floor.jpg",
+        "price": 193,
+    },
+    {   
+        "productId": 4,
+        "code": "00000142729",
+        "title": "Плитка облицовочная 3",
+        "primaryImageUrl": "floor.jpg",
+        "price": 293,
+    },
+    {   
+        "productId": 5,
+        "code": "00000142739",
+        "title": "Плитка облицовочная 4",
+        "primaryImageUrl": "floor.jpg",
+        "price": 953,
+    },
+]
